@@ -44,4 +44,4 @@ Untuk menjalankan proyek-proyek ini secara lokal, ikuti langkah-langkah berikut:
 1. **Clone Repositori**  
    Buka terminal dan jalankan perintah berikut:
    ```bash
-   git clone https://github.com/username/repo-name.git
+   git clone https://github.com/maulana-tech/50--projects.git
